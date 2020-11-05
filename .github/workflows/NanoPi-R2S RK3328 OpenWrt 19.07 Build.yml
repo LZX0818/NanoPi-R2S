@@ -9,7 +9,7 @@ jobs:
 
   build:
 
-    runs-on: U-hosted
+    runs-on: Ubuntu-hosted
 
     steps:
 
